@@ -6,3 +6,5 @@ Day-1: Modeling Styles in Verilog
 Day-2: Half Adder, Full Adder
 
 Day-3: Half Subtractor, Full Subtractor
+
+Day-4: 4 Bit Parallel Adder
