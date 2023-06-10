@@ -10,3 +10,5 @@ Day-3: Half Subtractor, Full Subtractor
 Day-4: 4 Bit Parallel Adder
 
 Day-5: 4 bit Adder-Subtractor
+
+Day-6: Carry Look Ahead Adder (4-bit & 16-bit using 4-bit)
