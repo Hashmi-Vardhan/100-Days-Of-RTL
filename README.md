@@ -20,3 +20,5 @@ Day-8: Carry Look Ahead Adder (4-bit & 16-bit using 4-bit)
 Day-9: 4 bit Carry Select Adder
 
 Day-10: 4 bit Carry Skip Adder
+
+Day-11: 4 bit Multiplier
