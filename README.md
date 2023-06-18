@@ -24,3 +24,5 @@ Day-10: 4 bit Carry Skip Adder
 Day-11: 4 bit Multiplier
 
 Day-12: 4 bit by 4 bit Divider
+
+Day-13: 2 bit Comparator
