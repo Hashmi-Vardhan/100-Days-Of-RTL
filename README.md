@@ -28,3 +28,7 @@ Day-12: 4 bit by 4 bit Divider
 Day-13: 2 bit Comparator
 
 Day-14: 2x1 MUX and 4x1 MUX
+
+Day-15: 8x1 MUX using 2x1 MUX
+
+Day-16: 1x2 Demux, 1x4 Demux
