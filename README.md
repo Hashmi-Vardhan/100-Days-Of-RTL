@@ -32,3 +32,5 @@ Day-14: 2x1 MUX and 4x1 MUX
 Day-15: 8x1 MUX using 2x1 MUX
 
 Day-16: 1x2 Demux, 1x4 Demux
+
+Day-17: Logic Gates using 2x1 MUX
