@@ -36,3 +36,5 @@ Day-16: 1x2 Demux, 1x4 Demux
 Day-17: Logic Gates using 2x1 MUX
 
 Day-18: 8:3 Encoder, Decimal to BCD Encoder, Hexadecimal to Binary Encoder
+
+Day-19: 8:3 Priority Encoder
