@@ -38,3 +38,5 @@ Day-17: Logic Gates using 2x1 MUX
 Day-18: 8:3 Encoder, Decimal to BCD Encoder, Hexadecimal to Binary Encoder
 
 Day-19: 8:3 Priority Encoder
+
+Day-20: 3:8 Decoder
