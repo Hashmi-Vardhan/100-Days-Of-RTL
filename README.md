@@ -41,4 +41,4 @@ Day-19: 8:3 Priority Encoder
 
 Day-20: 3:8 Decoder
 
-Day-21: Binary 2's Compliment using Half Adders
+Day-21: Binary to 2's Compliment and BCD
