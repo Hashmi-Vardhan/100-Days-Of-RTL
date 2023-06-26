@@ -42,3 +42,5 @@ Day-19: 8:3 Priority Encoder
 Day-20: 3:8 Decoder
 
 Day-21: Binary to 2's Compliment and BCD
+
+Day-22: Binary to Gray code, Gray code to Binary Converter
