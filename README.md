@@ -55,4 +55,5 @@ Day-26: 4 bit Vedic Multiplier
 
 Day-27: Asynchronous and Synchronous Reset
 
+Day-28: S-R Flipflop with sync and async Resets
 Day-28: SR Latch
