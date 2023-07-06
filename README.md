@@ -62,3 +62,5 @@ Day-29: S-R Flipflop with sync and async Resets
 Day-30: J-K Flip-Flop
 
 Day-31: Master Slave JK Flipflop
+
+Day-32: Rising Edge D Flip-Flop
