@@ -64,3 +64,5 @@ Day-30: J-K Flip-Flop
 Day-31: Master Slave JK Flipflop
 
 Day-32: Rising Edge D Flip-Flop
+
+Day-33: Rising Edge T Flip-Flop
