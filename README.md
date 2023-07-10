@@ -70,3 +70,5 @@ Day-33: Rising Edge T Flip-Flop
 Day-34: SR FF using D,JK,T FFs
 
 Day-35: JK FF using D, SR, T FFs
+
+Day-36: D FF using JK, SR, T FFs
