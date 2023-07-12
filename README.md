@@ -74,3 +74,24 @@ Day-35: JK FF using D, SR, T FFs
 Day-36: D FF using JK, SR, T FFs
 
 Day-37: T FF using D,JK,SR FFs
+
+Day-38: Asynchronous Up Counter - 3bit & 4bit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
