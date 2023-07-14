@@ -1,0 +1,36 @@
+module async_up_down_counter(clk,M, J,K,Q,Q_bar);
+input clk,M;
+input [2:0]J,K;
+output [2:0]Q,Q_bar;
+wire w1,w2;
+
+jk_ff JK1(clk,M,J[0],K[0],Q[0],Q_bar[0]);
+assign w1 = M^Q[0];
+jk_ff JK2(w1,M,J[1],K[1],Q[1],Q_bar[1]);
+assign w2 = M^Q[1];
+jk_ff JK3(w2,M,J[2],K[2],Q[2],Q_bar[2]);
+endmodule
+
+
+module jk_ff(clk,M,J,K, q,q_bar);
+input clk,M,J,K;
+output reg q;
+output q_bar;
+
+always@(negedge clk)
+begin
+  case({J,K})
+    2'b00: q <= q;
+  2'b01: q <= 1'b0;
+  2'b10: q <= 1'b1;
+  2'b11: q <= ~q;
+  endcase
+end
+
+initial begin
+q = 1'b1;
+end
+assign q_bar = ~q;
+endmodule
+
+
