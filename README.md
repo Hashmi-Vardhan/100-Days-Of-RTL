@@ -85,7 +85,7 @@ Day-41: Async Decade Counter
 
 Day-42: Asynchronous Modulus 6 Counter
 
-
+Day-43: 3 bit Synchronous Up Counter
 
 
 
