@@ -87,7 +87,7 @@ Day-42: Asynchronous Modulus 6 Counter
 
 Day-43: 3 bit Synchronous Up Counter
 
-
+Day-44: 3 bit Synchronous Up-Down Counter
 
 
 
