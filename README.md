@@ -91,7 +91,7 @@ Day-44: 3 bit Synchronous Up-Down Counter
 
 Day-45: RING COUNTER
 
-
+Day-46: Johnson Counter
 
 
 
