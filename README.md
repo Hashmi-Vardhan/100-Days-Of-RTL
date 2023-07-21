@@ -93,5 +93,5 @@ Day-45: RING COUNTER
 
 Day-46: Johnson Counter
 
-Day-47: 4 Bit Serial In Serial Out Sift Register
+Day-47: 4 Bit Serial In Serial Out Shift Register
 
