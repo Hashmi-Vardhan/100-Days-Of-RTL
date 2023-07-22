@@ -95,3 +95,4 @@ Day-46: Johnson Counter
 
 Day-47: 4 Bit Serial In Serial Out Shift Register
 
+Day-48: 4 Bit Serial In Parallel Out Shift Register
