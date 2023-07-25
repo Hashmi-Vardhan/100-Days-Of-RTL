@@ -101,7 +101,7 @@ Day-49: 4 Bit Parallel In Serial Out Shift Register
 
 Day-50: 4 Bit Parallel In Parallel Out Shift Register
 
-
+Day-51: 4 bit Bidirectional Shift Register
 
 
 
