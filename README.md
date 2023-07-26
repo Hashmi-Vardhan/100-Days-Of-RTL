@@ -103,6 +103,20 @@ Day-50: 4 Bit Parallel In Parallel Out Shift Register
 
 Day-51: 4 bit Bidirectional Shift Register
 
+Day-52: 4 bit Universal Shift Register
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
