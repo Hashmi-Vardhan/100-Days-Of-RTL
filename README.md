@@ -107,7 +107,7 @@ Day-52: 4 bit Universal Shift Register
 
 Day-53: Moore FSM
 
-
+Day-54: Moore Sequence Detector (Non-Overlapping)
 
 
 
