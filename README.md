@@ -109,6 +109,7 @@ Day-53: Moore FSM
 
 Day-54: Moore Sequence Detector (Non-Overlapping)
 
+Day-55: Moore Sequence Detector (Overlapping)
 
 
 
