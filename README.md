@@ -111,6 +111,16 @@ Day-54: Moore Sequence Detector (Non-Overlapping)
 
 Day-55: Moore Sequence Detector (Overlapping)
 
+Day-56: Mealy Sequence Dectector (Non-Overlapping)
+
+Day-57: Mealy Sequence Dectector (Overlapping)
+
+
+
+
+
+
+
 
 
 
