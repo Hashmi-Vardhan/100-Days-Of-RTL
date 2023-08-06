@@ -115,7 +115,15 @@ Day-56: Mealy Sequence Dectector (Non-Overlapping)
 
 Day-57: Mealy Sequence Dectector (Overlapping)
 
+Day-58: FSM-Vending Machine
 
+Day-59: FSM-Traffic Light Controller
+
+Day-60: FSM-Washing Machine
+
+Day-61: FSM-Alarm Clock
+
+Day-62: FSM-Elevator Controller
 
 
 
