@@ -131,6 +131,7 @@ Day-64: Single Port RAM
 
 Day-65: Dual Port RAM
 
+Day-66: Read Only Memory (ROM)
 
 
 
